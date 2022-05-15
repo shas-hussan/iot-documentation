@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/shazhussan/iot-deocumentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Foxlab Makerspace in association with GTech - Group of Technology Companies in Kerala is launching our prestigious program “Kerala IoT Challenge 2021”, with a vision to mould 100 IoT experts in Kerala, hosting on the µLearn platform. Kerala IoT Challenge is a program designed in 4 levels followed by a hackathon to identify and train quality industry leaders in the IoT domain, while any novice learner can start with layer 1 and others can enter laterally to the desired layer after an evaluation.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shas Hussan here, currently student at Cochin University of Science and Technology- CUSAT doing my BTech in Computer Science and Engineering.
+Love to code, web design, develop, and so on. I like speaking up to the audience, come on, book me lol. Check out my profiles, know more about me. tc!
 
 ```markdown
 Syntax highlighted code block
