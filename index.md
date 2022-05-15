@@ -772,4 +772,4 @@ delay(1000); // wait for 1s
 
 
 ### Support or Contact
-Mail me through shashussan@gmail.com
+Mail me through (shashussan@gmail.com)
