@@ -837,4 +837,4 @@ void loop()
 
 
 ### Support or Contact
-Mail me through <a>shashussan@gmail.com</a>
+Mail me, <a>shashussan@gmail.com</a>
