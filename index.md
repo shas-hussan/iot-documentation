@@ -773,6 +773,65 @@ delay(1000); // wait for 1s
 
 ### <ins>ASSIGNMENTS</ins>
 
+### ASSIGNMENT 1: Create an automatic night lamp model using LDR and LED:
+```markdown
+
+CODE
+
+int potpin=7;
+int ledpin=11;
+void setup()
+{
+  pinMode(ledpin,OUTPUT);// set digital pin 11 as “output”
+  pinMode(potpin,INPUT);// set pin 7 as input
+}
+void loop()
+{
+  if(digitalRead(potpin) == 1)
+  {
+    digitalWrite(ledpin,HIGH);
+  }
+  else
+  {
+    digitalWrite(ledpin,LOW);
+  }
+  Serial.println(digitalRead(potpin));
+  delay(10);// wait for 0.01 
+}
+
+```
+
+### ASSIGNMENT 2: Create a Digital Dice using 7 Segment Display and Push Button
+```markdown
+
+CODE
+
+long led_pin;
+
+void setup()
+{
+  pinMode(8,INPUT);  
+  for(int i=2;i<8;i++)
+  {
+    pinMode(i,OUTPUT);   
+  }
+}
+void loop()
+{
+  int val = digitalRead(8);
+  if(val == LOW)
+  {
+    led_pin = random(2,8);
+    digitalWrite(led_pin, LOW);
+  }
+  else
+  {
+    digitalWrite(led_pin, HIGH);
+  }
+}
+
+```
+
 
 
 
